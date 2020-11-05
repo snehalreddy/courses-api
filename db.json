@@ -75,7 +75,7 @@
       "start_date": "2020-10-1",
       "no_of_students": 8000,
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
-      "image_path": "../../assets/images/Tensorflow_logo.svg"
+      "image_path": "../../assets/images/Tensorflow_logo.svg.png"
     }
   ]
 }
