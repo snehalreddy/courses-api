@@ -54,6 +54,28 @@
       "no_of_students": 9999,
       "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
       "image_path": "../../assets/images/1184px-Vue.js_Logo_2.png"
+    },
+    {
+      "id": 5,
+      "name": "Angular JS",
+      "price": 150,
+      "duration": "3 Days",
+      "rating": 4.5,
+      "start_date": "2020-10-15",
+      "no_of_students": 7999,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "image_path": "../../assets/images/Angular_full_color_logo.png"
+    },
+    {
+      "id": 6,
+      "name": "Tensorflow 2.0",
+      "price": 300,
+      "duration": "6 Days",
+      "rating": 4.9,
+      "start_date": "2020-10-1",
+      "no_of_students": 8000,
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "image_path": "../../assets/images/Tensorflow_logo.svg"
     }
   ]
 }
